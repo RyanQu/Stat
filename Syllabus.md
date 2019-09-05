@@ -75,8 +75,13 @@ School begins: 09/03/2019.
 * 12/05:
 
 School ends: 12/11/2019.
+
 **Final Exam: 12/19/2019: 8:00 PM - 11:00 PM (Maybe a typo in system)**
+
 The 26th of November 2019 follows a Thursday Schedule.
+
 The 27th of November 2019 follows a Friday Schedule.
+
 Thanksgiving Recess: From 9. 28. 2019 to 12.1. 2019.
+
 Reading Days (No Classes): 12.12. 2019 and 12.13. 2019.
