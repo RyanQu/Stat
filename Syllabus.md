@@ -27,11 +27,11 @@ After taking this course students will learn:
 
 ## Grade
 
-The course grade will be based on 3 homeworks, 1 mid-term examinations, and 1 cumulative final examination, with the following weights:
+The course grade will be based on 4 homeworks, 1 mid-term examinations, and 1 cumulative final examination, with the following weights:
 
-* Homework: 30%
-* Midterm examinations: 30%
-* Final examination: 40%
+* Homework: 40%
+* Midterm examinations: 25%
+* Final examination: 35%
 
 Letter Grades: 
 
@@ -60,19 +60,19 @@ Note: The described procedures and the calendar for this course are subject to c
 School begins: 09/03/2019.
 
 * 09/05: Introduction and Applications
-* 09/12: Data, Variable and Basic Statistics
-* 09/19: ANOVA
-* 09/26: Linear Regression 
-* 10/03: Linear Regression Analysis
-* 10/10: Linear Regression Model Design
-* 10/17: Logistic Regression
+* 09/12: Review Data, Variable and Basic Statistics
+* 09/19: Hypothesis Test & ANOVA
+* 09/26: ANOVA & Linear Regression 
+* 10/03: Linear Regression 
+* 10/10: Linear Regression Analysis
+* 10/17: Linear Regression Model Design & Review
 * 10/24: **Midterm Exam**
-* 10/31: 
-* 11/07: 
-* 11/14: 
-* 11/21: 
-* 11/26: (Thanksgiving schedule)
-* 12/05:
+* 10/31: Logistic Regression
+* 11/07: Time Series
+* 11/14: Chi-square Test
+* 11/21: Relational Analysis & AHP
+* 11/26: Intro to Data Mining (Thanksgiving schedule)
+* 12/05: Review
 
 School ends: 12/11/2019.
 
